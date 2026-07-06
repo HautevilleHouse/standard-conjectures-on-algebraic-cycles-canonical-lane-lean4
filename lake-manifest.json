@@ -1,0 +1,6 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "standard_conjectures_on_algebraic_cycles_canonical_lane_lean",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
